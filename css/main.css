@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    font-size: 80px;
+    font-weight: bolder;
+    
+}
+
+.main-paragraph{
+    font-size: 35px;
+}
+
+#quote{
+    font-size: 35px;
+}
